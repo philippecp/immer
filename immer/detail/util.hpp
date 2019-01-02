@@ -8,14 +8,14 @@
 
 #pragma once
 
-#include <immer/config.hpp>
+#include "config.hpp"
 
 #include <cstddef>
 #include <new>
 #include <type_traits>
 #include <memory>
 
-#include <immer/detail/type_traits.hpp>
+#include "detail/type_traits.hpp"
 
 #if defined(_MSC_VER)
 #include <intrin.h> // for __lzcnt*

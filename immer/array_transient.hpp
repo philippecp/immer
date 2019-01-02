@@ -8,8 +8,8 @@
 
 #pragma once
 
-#include <immer/memory_policy.hpp>
-#include <immer/detail/arrays/with_capacity.hpp>
+#include "memory_policy.hpp"
+#include "detail/arrays/with_capacity.hpp"
 
 namespace immer {
 

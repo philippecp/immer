@@ -8,8 +8,8 @@
 
 #pragma once
 
-#include <immer/config.hpp>
-#include <immer/heap/tags.hpp>
+#include "config.hpp"
+#include "heap/tags.hpp"
 
 #if IMMER_HAS_LIBGC
 #include <gc/gc.h>

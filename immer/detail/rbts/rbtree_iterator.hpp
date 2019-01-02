@@ -8,8 +8,8 @@
 
 #pragma once
 
-#include <immer/detail/rbts/rbtree.hpp>
-#include <immer/detail/iterator_facade.hpp>
+#include "detail/rbts/rbtree.hpp"
+#include "detail/iterator_facade.hpp"
 
 namespace immer {
 namespace detail {

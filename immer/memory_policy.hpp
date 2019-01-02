@@ -8,13 +8,13 @@
 
 #pragma once
 
-#include <immer/heap/cpp_heap.hpp>
-#include <immer/heap/heap_policy.hpp>
-#include <immer/refcount/refcount_policy.hpp>
-#include <immer/refcount/unsafe_refcount_policy.hpp>
-#include <immer/refcount/no_refcount_policy.hpp>
-#include <immer/transience/no_transience_policy.hpp>
-#include <immer/transience/gc_transience_policy.hpp>
+#include "heap/cpp_heap.hpp"
+#include "heap/heap_policy.hpp"
+#include "refcount/refcount_policy.hpp"
+#include "refcount/unsafe_refcount_policy.hpp"
+#include "refcount/no_refcount_policy.hpp"
+#include "transience/no_transience_policy.hpp"
+#include "transience/gc_transience_policy.hpp"
 #include <type_traits>
 
 namespace immer {

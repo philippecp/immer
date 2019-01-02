@@ -8,8 +8,8 @@
 
 #pragma once
 
-#include <immer/config.hpp>
-#include <immer/heap/identity_heap.hpp>
+#include "config.hpp"
+#include "heap/identity_heap.hpp"
 #include <cassert>
 
 namespace immer {

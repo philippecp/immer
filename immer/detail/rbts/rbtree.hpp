@@ -8,11 +8,11 @@
 
 #pragma once
 
-#include <immer/detail/rbts/node.hpp>
-#include <immer/detail/rbts/position.hpp>
-#include <immer/detail/rbts/operations.hpp>
+#include "detail/rbts/node.hpp"
+#include "detail/rbts/position.hpp"
+#include "detail/rbts/operations.hpp"
 
-#include <immer/detail/type_traits.hpp>
+#include "detail/type_traits.hpp"
 
 #include <cassert>
 #include <memory>

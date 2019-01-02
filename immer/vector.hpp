@@ -8,12 +8,12 @@
 
 #pragma once
 
-#include <immer/detail/rbts/rbtree.hpp>
-#include <immer/detail/rbts/rbtree_iterator.hpp>
-#include <immer/memory_policy.hpp>
+#include "detail/rbts/rbtree.hpp"
+#include "detail/rbts/rbtree_iterator.hpp"
+#include "memory_policy.hpp"
 
 #if IMMER_DEBUG_PRINT
-#include <immer/flex_vector.hpp>
+#include "flex_vector.hpp"
 #endif
 
 namespace immer {

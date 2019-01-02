@@ -8,11 +8,11 @@
 
 #pragma once
 
-#include <immer/heap/debug_size_heap.hpp>
-#include <immer/heap/free_list_heap.hpp>
-#include <immer/heap/split_heap.hpp>
-#include <immer/heap/thread_local_free_list_heap.hpp>
-#include <immer/config.hpp>
+#include "heap/debug_size_heap.hpp"
+#include "heap/free_list_heap.hpp"
+#include "heap/split_heap.hpp"
+#include "heap/thread_local_free_list_heap.hpp"
+#include "config.hpp"
 
 #include <cstdlib>
 #include <algorithm>

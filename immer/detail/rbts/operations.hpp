@@ -13,11 +13,11 @@
 #include <numeric>
 #include <utility>
 
-#include <immer/config.hpp>
-#include <immer/heap/tags.hpp>
-#include <immer/detail/util.hpp>
-#include <immer/detail/rbts/position.hpp>
-#include <immer/detail/rbts/visitor.hpp>
+#include "config.hpp"
+#include "heap/tags.hpp"
+#include "detail/util.hpp"
+#include "detail/rbts/position.hpp"
+#include "detail/rbts/visitor.hpp"
 
 namespace immer {
 namespace detail {

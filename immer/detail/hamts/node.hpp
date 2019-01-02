@@ -8,9 +8,9 @@
 
 #pragma once
 
-#include <immer/detail/combine_standard_layout.hpp>
-#include <immer/detail/util.hpp>
-#include <immer/detail/hamts/bits.hpp>
+#include "detail/combine_standard_layout.hpp"
+#include "detail/util.hpp"
+#include "detail/hamts/bits.hpp"
 
 #include <cassert>
 

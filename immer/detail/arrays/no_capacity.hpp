@@ -8,8 +8,8 @@
 
 #pragma once
 
-#include <immer/algorithm.hpp>
-#include <immer/detail/arrays/node.hpp>
+#include "algorithm.hpp"
+#include "detail/arrays/node.hpp"
 
 namespace immer {
 namespace detail {

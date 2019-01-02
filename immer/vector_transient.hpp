@@ -8,9 +8,9 @@
 
 #pragma once
 
-#include <immer/detail/rbts/rbtree.hpp>
-#include <immer/detail/rbts/rbtree_iterator.hpp>
-#include <immer/memory_policy.hpp>
+#include "detail/rbts/rbtree.hpp"
+#include "detail/rbts/rbtree_iterator.hpp"
+#include "memory_policy.hpp"
 
 namespace immer {
 

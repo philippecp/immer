@@ -8,7 +8,7 @@
 
 #pragma once
 
-#include <immer/config.hpp>
+#include "config.hpp"
 
 #include <memory>
 #include <cstdlib>

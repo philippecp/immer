@@ -8,9 +8,9 @@
 
 #pragma once
 
-#include <immer/memory_policy.hpp>
-#include <immer/detail/hamts/champ.hpp>
-#include <immer/detail/hamts/champ_iterator.hpp>
+#include "memory_policy.hpp"
+#include "detail/hamts/champ.hpp"
+#include "detail/hamts/champ_iterator.hpp"
 
 #include <functional>
 

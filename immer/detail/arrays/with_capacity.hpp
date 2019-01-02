@@ -8,7 +8,7 @@
 
 #pragma once
 
-#include <immer/detail/arrays/no_capacity.hpp>
+#include "detail/arrays/no_capacity.hpp"
 
 namespace immer {
 namespace detail {

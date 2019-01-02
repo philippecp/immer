@@ -8,8 +8,8 @@
 
 #pragma once
 
-#include <immer/experimental/detail/dvektor_impl.hpp>
-#include <immer/memory_policy.hpp>
+#include "experimental/detail/dvektor_impl.hpp"
+#include "memory_policy.hpp"
 
 namespace immer {
 

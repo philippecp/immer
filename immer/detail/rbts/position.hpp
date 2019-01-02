@@ -8,8 +8,8 @@
 
 #pragma once
 
-#include <immer/config.hpp>
-#include <immer/detail/rbts/bits.hpp>
+#include "config.hpp"
+#include "detail/rbts/bits.hpp"
 
 #include <cassert>
 #include <utility>

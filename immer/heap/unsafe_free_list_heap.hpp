@@ -8,8 +8,8 @@
 
 #pragma once
 
-#include <immer/config.hpp>
-#include <immer/heap/free_list_node.hpp>
+#include "config.hpp"
+#include "heap/free_list_node.hpp"
 #include <cassert>
 
 namespace immer {

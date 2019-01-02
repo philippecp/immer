@@ -8,8 +8,8 @@
 
 #pragma once
 
-#include <immer/detail/hamts/champ.hpp>
-#include <immer/detail/iterator_facade.hpp>
+#include "detail/hamts/champ.hpp"
+#include "detail/iterator_facade.hpp"
 
 namespace immer {
 namespace detail {

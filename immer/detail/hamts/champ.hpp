@@ -8,8 +8,8 @@
 
 #pragma once
 
-#include <immer/config.hpp>
-#include <immer/detail/hamts/node.hpp>
+#include "config.hpp"
+#include "detail/hamts/node.hpp"
 
 #include <algorithm>
 

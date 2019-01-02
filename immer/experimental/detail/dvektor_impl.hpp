@@ -8,9 +8,9 @@
 
 #pragma once
 
-#include <immer/heap/heap_policy.hpp>
-#include <immer/refcount/enable_intrusive_ptr.hpp>
-#include <immer/refcount/refcount_policy.hpp>
+#include "heap/heap_policy.hpp"
+#include "refcount/enable_intrusive_ptr.hpp"
+#include "refcount/refcount_policy.hpp"
 
 #include <boost/intrusive_ptr.hpp>
 #include <boost/iterator/iterator_facade.hpp>

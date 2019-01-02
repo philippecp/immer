@@ -8,8 +8,8 @@
 
 #pragma once
 
-#include <immer/memory_policy.hpp>
-#include <immer/detail/hamts/champ.hpp>
+#include "memory_policy.hpp"
+#include "detail/hamts/champ.hpp"
 
 #include <functional>
 
